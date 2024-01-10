@@ -1,2 +1,2 @@
 # OOP
-Pythono Oriented Object Programming
+Python Oriented Object Programming
